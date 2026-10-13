@@ -31,4 +31,10 @@ this is a library website, i build this using :
 ![preview](/doc/tabel_buku.png)
 
  </li>
+ <li>
+    <span>Database Design</span>
+
+![preview](/doc/Database_design.jpg)
+
+ </li>
 </ul>
